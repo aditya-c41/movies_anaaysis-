@@ -18,6 +18,20 @@ This project leveraged the following Python libraries:
 - **Matplotlib**: Data visualization
 - **Seaborn**: Statistical data visualization
 
+### Technical Requirements
+- **Programming Language**: Python 3.x
+- **Data Processing**: Pandas for data manipulation and cleaning
+- **Data Visualization**: Matplotlib and Seaborn for graphical analysis
+- **Environment**: Jupyter Notebook or a Python script-based environment
+- **Data Storage**: CSV or JSON format for dataset storage
+- **Performance Considerations**:
+  - Use optimized Pandas functions for large datasets.
+  - Reduce memory consumption by using appropriate data types.
+  - Utilize batch processing for handling large data files.
+- **Dependencies**:
+  - Install required Python libraries via `pip install -r requirements.txt`
+  - Compatible with Windows, macOS, and Linux environments
+
 ## Visualizations
 Key visualizations included:
 
